@@ -1,7 +1,7 @@
 # JYU-Mobile-edu-23-1 Course material
 Mobile Course repository
 ## Mobile App Developmen Phases
-###cPlan + Design 
+### Plan + Design 
 Test version – Hello World in Testflight / Google Play Closed Distribution
 (CI/CD)
 AppStore / Google Play store review
