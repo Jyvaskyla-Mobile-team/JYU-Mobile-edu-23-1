@@ -8,7 +8,7 @@ Mobile Course repository
 5. Publishing the app
 
 ### Out of scope for this course:
-Unit tests
-Test automation
-Documentation
+1. Unit tests
+2. Test automation
+3. Documentation
 
