@@ -1,5 +1,7 @@
 # JYU-Mobile-edu-23-1 Course material
-Mobile Course repository
+This repository has been started for Mobile application development course that has been done together with University of Jyväskylä and Tietoevry Create mobile team.
+You can  find instructions for getting course done. We will share here all material that you need.
+
 ## Mobile App Developmen Phases
 1. Plan + Design 
 2. Test version – Hello World in Testflight / Google Play Closed Distribution
