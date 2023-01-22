@@ -14,3 +14,8 @@ You can  find instructions for getting course done. We will share here all mater
 2. Test automation
 3. Documentation
 
+**In order to get credits from the course the team needs to have the mobile app published in 
+App Store / Google Play Store and we have received your individual learning report.**
+
+
+
