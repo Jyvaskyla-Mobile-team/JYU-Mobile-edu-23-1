@@ -17,7 +17,7 @@ Coding Clinique - 1 hour
 - 27.4. Deadline
   - Final party if the app is released
 
-## Mobile App Developmen Phases
+## Mobile App Development Phases
 1. Plan + Design 
 2. Test version – Hello World in Testflight / Google Play Closed Distribution
 3. (CI/CD)
