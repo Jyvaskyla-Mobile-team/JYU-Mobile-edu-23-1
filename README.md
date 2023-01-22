@@ -32,5 +32,7 @@ Coding Clinique - 1 hour
 **In order to get credits from the course the team needs to have the mobile app published in 
 App Store / Google Play Store and we have received your individual learning report.**
 
+Checkout the [Wiki] (https://github.com/Jyvaskyla-Mobile-team/JYU-Mobile-edu-23-1/wiki) For more material.
+
 
 
